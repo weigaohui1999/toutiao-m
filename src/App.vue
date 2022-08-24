@@ -10,5 +10,7 @@ export default {
 }
 </script>
 <style lang="less" scoped>
-
+#app {
+  font-size: 19px;
+}
 </style>
